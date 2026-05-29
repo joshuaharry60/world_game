@@ -29,6 +29,7 @@ noun = input("Enter your name: ")
 noun2 = input("Enter name of a place {noun}:")
 adjective = input("Descript what you saw {adjective}:")
 verb = input("Enter a verb ending with 'ing': ")
+#got is fine 
 
 print(f"One faithful morning  {noun} went with his entire family member to attend mornig mass ")
 print(f"On getting to {noun2} his see where amaze with what he saw, likewise his family members within the church premise. thougth its was  very {adjective} experience  encountered. ")
